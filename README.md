@@ -8,4 +8,15 @@ Data for Tafenoquine and the Tafenoquine-Coumarin Probe(TQCP) are published in t
 
 https://digitalcommons.usf.edu/etd/7062/
 
-The data surrounding the molecular characterization (<sup>1</sup>H-NMR, High Resolusion Mass Spectometry (HRMS), and fluorescent activity), anti-malarial activities, and fluorescent localization in *Plasmodium falciparum* parasites are all within these two references.
+The data for the molecular characterization (<sup>1</sup>H-NMR, High Resolusion Mass Spectometry (HRMS), and fluorescent activity), anti-malarial activities, and fluorescent localization of the 8-AQ fluorescent probes in *Plasmodium falciparum* parasites are all within these two references.
+
+
+
+## Repository Structure
+
+```
+├── README.md                           <- The top-level README for reviewers of this project
+├── Probe_Informatics.ipynb             <- Data construction, fingerprint, similarity scores, and molecular descriptor calculations
+├── Probedata.xlsx                      <- Dataframe with molecular descriptors and compound structures, but no similarity scores or fingerprint calculations.
+
+```
