@@ -13,14 +13,7 @@ The data for the molecular characterization (<sup>1</sup>H-NMR, High Resolusion 
 ## Compounds
 
 Here are the molecular structures for the compounds:
-
-![Primaquine](Probe_informatics_files/Probe_informatics_7_0.png)
-
-![PQCP](Probe_informatics_files/Probe_informatics_9_0.png)
-
-![Tafenoquine](Probe_informatics_files/Probe_informatics_8_0.png)
-
-![TQCP](Probe_informatics_files/Probe_informatics_10_0.png)
+![Molecular Structures of the molecules in the study](Probe_informatics_files/Probe_informatics_5_0.svg)
 
 ## Comparison of Similarity Scores for Different Fingerprints
 
@@ -47,5 +40,5 @@ Why is this the case? Perhaps it's due to the fact that Morgan fingerprints have
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Probe_Informatics.ipynb             <- Data construction, fingerprint, similarity scores, and molecular descriptor calculations
 ├── Probedata.xlsx                      <- Dataframe with molecular descriptors and compound structures, but no similarity scores or fingerprint calculations.
-
+├── Probe_informatics_files.xlsx        <- Folder containing the compound images and graphs from the notebook
 ```
