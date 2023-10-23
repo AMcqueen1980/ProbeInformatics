@@ -40,5 +40,5 @@ Why is this the case? Perhaps it's due to the fact that Morgan fingerprints have
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Probe_Informatics.ipynb             <- Data construction, fingerprint, similarity scores, and molecular descriptor calculations
 ├── Probedata.xlsx                      <- Dataframe with molecular descriptors and compound structures, but no similarity scores or fingerprint calculations.
-├── Probe_informatics_files.xlsx        <- Folder containing the compound images and graphs from the notebook
+├── Probe_informatics_files        <- Folder containing the compound images and graphs from the notebook
 ```
